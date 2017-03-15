@@ -1,1 +1,6 @@
-$(document).foundation();
+// $(document).foundation();
+
+
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch();
+});
