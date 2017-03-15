@@ -1,5 +1,15 @@
-
-var tipuesearch = {"pages": [
-     {"title": "Fredy", "text": "Es un wey bien cabrón", "tags": "chingon vergas pitudo", "url": "http://www.fredyrivas.com"},
-     {"title": "Servando", "text": "Es un wey medio puto", "tags": "puto pedorro cagado", "url": "http://www.servito.com"}
-]};
+var tipuesearch = {
+	"pages": [{
+			"title": "Enrique Peña Nieto",
+			"text": "Mensaje de año nuevo",
+			"tags": "puto epn Enrique Peña Nieto presidente excelsior",
+			"url": "55c7IhTdyVk"
+		},
+		{
+			"title": "Werevertumorro",
+			"text": "Malas amistades",
+			"tags": "werevertumorro puto chiste werever morro",
+			"url": "nH5OMEuASA8"
+		}
+	]
+};
